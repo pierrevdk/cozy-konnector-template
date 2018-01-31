@@ -168,7 +168,7 @@ License
 [github]: https://github.com/cozy/
 [nodejs]: https://nodejs.org/
 [standard]: https://standardjs.com
-[twitter]: https://twitter.com/mycozycloud
+[twitter]: https://twitter.com/cozycloud
 [webpack]: https://webpack.js.org
 [yarn]: https://yarnpkg.com
 [travis]: https://travis-ci.org
